@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://postgres:5432/product_db
+    url: jdbc:postgresql://postgres-db:5432/product_database
     username: postgres
     password: Kvlv!@135
 
