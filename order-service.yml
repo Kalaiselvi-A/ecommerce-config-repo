@@ -6,7 +6,7 @@ spring:
     name: order-service
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/order_data
+    url: jdbc:postgresql://postgres:5432/order_data
     username: postgres
     password: Kvlv!@135
 
